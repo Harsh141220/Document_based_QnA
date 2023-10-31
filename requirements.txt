@@ -1,0 +1,12 @@
+transformers==4.33.0 
+torch==2.0.1 
+accelerate 
+pyspark 
+einops 
+langchain 
+xformers 
+bitsandbytes 
+faiss-gpu  
+pypdf2 
+huggingface 
+tokenizers
